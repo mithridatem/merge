@@ -1,0 +1,1 @@
+const texte = "Valeur";
